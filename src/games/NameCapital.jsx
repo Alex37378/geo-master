@@ -47,7 +47,7 @@ export default function NameCapital() {
 
 
   const [mapSettings, setMapSettings] = useState({
-    scale: 160,
+    scale: 180,
     translate: [400, 250]
   });
 
@@ -128,7 +128,7 @@ export default function NameCapital() {
           title="Name the Capital"
         />
 
-        <div className="space-y-6">
+        <div className="space-y-6 pb-[100px]">
 
           <div className="border-t border-slate-200"></div>
 

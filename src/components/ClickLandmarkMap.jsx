@@ -54,7 +54,7 @@ export default function ClickLandmarkMap({
         <svg
             ref={svgRef}
             viewBox="0 0 800 500"
-            className="bg-sky-50 w-full h-auto border border-[#10B981] rounded-lg mx-auto"
+            className="bg-sky-50 w-full max-h-[45vh] h-auto border border-[#10B981] rounded-lg mx-auto"
             onClick={handleMapClick}
         >
             <g className="map-group">

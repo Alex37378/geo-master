@@ -48,7 +48,7 @@ export default function LandmarkLocator() {
 
 
   const [mapSettings, setMapSettings] = useState({
-    scale: 160,
+    scale: 180,
     translate: [400, 250]
   });
 
@@ -153,7 +153,7 @@ export default function LandmarkLocator() {
             timeFeedback={game.timeFeedback}
           />
 
-          <div className="relative w-[calc(100%-2rem)] max-w-[800px] mx-auto">
+          <div className="relative w-[calc(100%-2rem)] max-w-[600px] mx-auto">
 
             {game.currentItem &&  (
               <img

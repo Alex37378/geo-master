@@ -35,7 +35,7 @@ export default function CountryLocator() {
 
 
   const [mapSettings, setMapSettings] = useState({
-    scale: 160,
+    scale: 180,
     translate: [400, 250]
   });
 

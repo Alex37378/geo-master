@@ -12,7 +12,7 @@ export default function WorldMap({
     <svg
             ref={svgRef}
             viewBox="0 0 800 500"
-            className="w-[calc(100%-2rem)] max-w-[800px] h-auto bg-sky-50 border border-[#10B981] mx-auto rounded-lg"
+            className="w-[calc(100%-2rem)] max-w-[600px] max-h-[45vh] h-auto bg-sky-50 border border-[#10B981] mx-auto rounded-lg"
           >
             <g className="map-group">
               {countriesGeo.features.map((country) => (

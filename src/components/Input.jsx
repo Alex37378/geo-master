@@ -12,7 +12,9 @@ export default function Input({
     return (
     <div className="flex flex-col items-center space-y-6">
 
-          <div className="relative">
+          <div 
+            className="relative"
+          >
             <input
               type="text"
               value={answer}
@@ -30,21 +32,22 @@ export default function Input({
             />
 
             {suggestions.length > 0 && (
-              <div className=" w-full absolute bg-white border border-[#10B981] rounded-md ">
-                {suggestions.map(country => (
-                  <div
-                    key={country.id}
-                    onMouseDown={(e) => e.preventDefault()}
-                    onClick={() => {
-                      setAnswer(country.name);
-                      setSuggestions([]);
-                    }}
-                    className="cursor-pointer px-3 py-1"
-                  >
-                    {country.name}
-                  </div>
-                ))}
-              </div>
+                <div className="w-full absolute bg-white border border-[#10B981] rounded-md">
+                  {suggestions.map(country => (
+                    <div
+                      key={country.id}
+                      onMouseDown={(e) => e.preventDefault()}
+                      onClick={() => {
+                        setAnswer(country.name);
+                        setSuggestions([]);
+                      }}
+                      className="cursor-pointer px-3 py-1 hover:bg-[#F1F5F9] rounded-lg"
+                    >
+                      {country.name}
+                    </div>
+                  ))}
+                </div>
+
             )}
           </div>
     </div>

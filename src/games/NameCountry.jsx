@@ -35,7 +35,7 @@ export default function NameCountry() {
   const game = useGameLogic(mapCountries, mode, "nameCountry");
 
   const [mapSettings, setMapSettings] = useState({
-    scale: 160,
+    scale: 180,
     translate: [400, 250]
   });
 
@@ -121,7 +121,7 @@ export default function NameCountry() {
           title="Name the Country"
         />
 
-        <div className="space-y-6">
+        <div className="space-y-6 pb-[100px]">
 
           <div className="border-t border-slate-200"></div>
 
