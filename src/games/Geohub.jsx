@@ -85,10 +85,10 @@ export default function Geohub() {
           <div className="grid grid-cols-1 xl:grid-cols-3 lg:grid-cols-2 gap-4 justify-center w-fit mx-auto">
               <Link to="/name-country" state={{mode}}>
 
-                <div className="group w-[calc(100%-2rem)] max-w-[400px] mx-auto hover:-translate-y-1 hover:shadow-lg">
+                <div className="group w-[calc(100%-2rem)] max-w-[310px] mx-auto hover:-translate-y-1 hover:shadow-lg">
                   <img
                     src={img1}
-                    className="w-full h-[280px] object-cover rounded-t-lg border-t border-l border-r border-[#10B981]"
+                    className="w-full h-[200px] object-cover rounded-t-lg border-t border-l border-r border-[#10B981]"
                   />
                   <button className=" w-full rounded-b-lg p-2 bg-[#FFFFFF] border-b border-l border-r border-[#10B981] cursor-pointer group-hover:bg-emerald-50">
                     <div className="text-xl font-semibold">Name the Country</div>
@@ -100,10 +100,10 @@ export default function Geohub() {
 
               <Link to="/name-flag" state={{mode}}>
 
-                <div className="group w-[calc(100%-2rem)] max-w-[400px] mx-auto hover:-translate-y-1 hover:shadow-lg">
+                <div className="group w-[calc(100%-2rem)] max-w-[310px] mx-auto hover:-translate-y-1 hover:shadow-lg">
                   <img
                     src={img2}
-                    className="w-full h-[280px] object-cover rounded-t-lg border-t border-l border-r border-[#10B981]"
+                    className="w-full h-[200px] object-cover rounded-t-lg border-t border-l border-r border-[#10B981]"
                   />
                   <button className="w-full rounded-b-lg p-2 bg-[#FFFFFF] border-b border-l border-r border-[#10B981] cursor-pointer group-hover:bg-emerald-50">
                     <div className="text-xl font-semibold">Name the Flag</div>
@@ -116,10 +116,10 @@ export default function Geohub() {
 
               <Link to="/name-capital" state={{mode}}>
 
-                <div className="group w-[calc(100%-2rem)] max-w-[400px] mx-auto hover:-translate-y-1 hover:shadow-lg">
+                <div className="group w-[calc(100%-2rem)] max-w-[310px] mx-auto hover:-translate-y-1 hover:shadow-lg">
                   <img
                     src={img3}
-                    className="w-full h-[280px] object-cover rounded-t-lg border-t border-l border-r border-[#10B981]"
+                    className="w-full h-[200px] object-cover rounded-t-lg border-t border-l border-r border-[#10B981]"
                   />
                   <button className=" w-full rounded-b-lg p-2 bg-[#FFFFFF] border-b border-l border-r border-[#10B981] cursor-pointer group-hover:bg-emerald-50">
                     <div className="text-xl font-semibold">Name the Capital</div>
@@ -132,10 +132,10 @@ export default function Geohub() {
 
               <Link to="/country-locator" state={{mode}}>
 
-                <div className="group w-[calc(100%-2rem)] max-w-[400px] mx-auto hover:-translate-y-1 hover:shadow-lg">
+                <div className="group w-[calc(100%-2rem)] max-w-[310px] mx-auto hover:-translate-y-1 hover:shadow-lg">
                   <img
                     src={img4}
-                    className="w-full h-[280px] object-cover rounded-t-lg border-t border-l border-r border-[#10B981]"
+                    className="w-full h-[200px] object-cover rounded-t-lg border-t border-l border-r border-[#10B981]"
                   />
                   <button className="w-full rounded-b-lg p-2 bg-[#FFFFFF] border-b border-l border-r border-[#10B981] cursor-pointer group-hover:bg-emerald-50">
                     <div className="text-xl font-semibold">Country Locator</div>
@@ -148,10 +148,10 @@ export default function Geohub() {
 
               <Link to="/landmark-locator" state={{mode}}>
 
-                <div className="group w-[calc(100%-2rem)] max-w-[400px] mx-auto hover:-translate-y-1 hover:shadow-lg">
+                <div className="group w-[calc(100%-2rem)] max-w-[310px] mx-auto hover:-translate-y-1 hover:shadow-lg">
                   <img
                     src={img5}
-                    className="w-full h-[280px] object-cover rounded-t-lg border-t border-l border-r border-[#10B981]"
+                    className="w-full h-[200px] object-cover rounded-t-lg border-t border-l border-r border-[#10B981]"
                   />
                   <button className="w-full rounded-b-lg p-2 bg-[#FFFFFF] border-b border-l border-r border-[#10B981] cursor-pointer group-hover:bg-emerald-50">
                     <div className="text-xl font-semibold">Landmark Locator</div>
@@ -164,10 +164,10 @@ export default function Geohub() {
 
               <Link to="/geo-quiz" state={{mode}}>
 
-                <div className="group w-[calc(100%-2rem)] max-w-[400px] mx-auto hover:-translate-y-1 hover:shadow-lg mb-5">
+                <div className="group w-[calc(100%-2rem)] max-w-[310px] mx-auto hover:-translate-y-1 hover:shadow-lg mb-5">
                   <img
                     src={img6}
-                    className="w-full h-[280px] object-cover rounded-t-lg border-t border-l border-r border-[#10B981]"
+                    className="w-full h-[200px] object-cover rounded-t-lg border-t border-l border-r border-[#10B981]"
                   />
                   <button className=" w-full rounded-b-lg p-2 bg-[#FFFFFF] border-b border-l border-r border-[#10B981] cursor-pointer group-hover:bg-emerald-50">
                     <div className="text-xl font-semibold">Geo Quiz</div>
