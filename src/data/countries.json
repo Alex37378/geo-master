@@ -1,0 +1,1126 @@
+[
+  {
+    "id": "004",
+    "name": "Afghanistan",
+    "code": "af",
+    "flag": "https://flagcdn.com/w320/af.png",
+    "capital": "Kabul",
+    "coordinates": [69.2075, 34.5553]
+  },
+  {
+    "id": "008",
+    "name": "Albania",
+    "code": "al",
+    "flag": "https://flagcdn.com/w320/al.png",
+    "capital": "Tirana",
+    "coordinates": [19.8187, 41.3275]
+  },
+  {
+    "id": "012",
+    "name": "Algeria",
+    "code": "dz",
+    "flag": "https://flagcdn.com/w320/dz.png",
+    "capital": "Algiers",
+    "coordinates": [3.0588, 36.7538]
+  },
+  {
+    "id": "020",
+    "name": "Andorra",
+    "code": "ad",
+    "flag": "https://flagcdn.com/w320/ad.png",
+    "capital": "Andorra la Vella",
+    "coordinates": [1.5218, 42.5063]
+  },
+  {
+    "id": "024",
+    "name": "Angola",
+    "code": "ao",
+    "flag": "https://flagcdn.com/w320/ao.png",
+    "capital": "Luanda",
+    "coordinates": [13.2344, -8.8383]
+  },
+  {
+    "id": "028",
+    "name": "Antigua and Barbuda",
+    "code": "ag",
+    "flag": "https://flagcdn.com/w320/ag.png",
+    "capital": "Saint John's",
+    "coordinates": [-61.8456, 17.1274]
+  },
+  {
+    "id": "032",
+    "name": "Argentina",
+    "code": "ar",
+    "flag": "https://flagcdn.com/w320/ar.png",
+    "capital": "Buenos Aires",
+    "coordinates": [-58.3816, -34.6037]
+  },
+  {
+    "id": "051",
+    "name": "Armenia",
+    "code": "am",
+    "flag": "https://flagcdn.com/w320/am.png",
+    "capital": "Yerevan",
+    "coordinates": [44.5152, 40.1872]
+  },
+  {
+    "id": "036",
+    "name": "Australia",
+    "code": "au",
+    "flag": "https://flagcdn.com/w320/au.png",
+    "capital": "Canberra",
+    "coordinates": [149.1300, -35.2809]
+  },
+  {
+    "id": "040",
+    "name": "Austria",
+    "code": "at",
+    "flag": "https://flagcdn.com/w320/at.png",
+    "capital": "Vienna",
+    "coordinates": [16.3738, 48.2082]
+  },
+  {
+    "id": "031",
+    "name": "Azerbaijan",
+    "code": "az",
+    "flag": "https://flagcdn.com/w320/az.png",
+    "capital": "Baku",
+    "coordinates": [49.8671, 40.4093]
+  },
+  {
+    "id": "044",
+    "name": "Bahamas",
+    "code": "bs",
+    "flag": "https://flagcdn.com/w320/bs.png",
+    "capital": "Nassau",
+    "coordinates": [-77.3554, 25.0443]
+  },
+  {
+    "id": "048",
+    "name": "Bahrain",
+    "code": "bh",
+    "flag": "https://flagcdn.com/w320/bh.png",
+    "capital": "Manama",
+    "coordinates": [50.5860, 26.2235]
+  },
+  {
+    "id": "050",
+    "name": "Bangladesh",
+    "code": "bd",
+    "flag": "https://flagcdn.com/w320/bd.png",
+    "capital": "Dhaka",
+    "coordinates": [90.4125, 23.8103]
+  },
+  {
+    "id": "052",
+    "name": "Barbados",
+    "code": "bb",
+    "flag": "https://flagcdn.com/w320/bb.png",
+    "capital": "Bridgetown",
+    "coordinates": [-59.6167, 13.0975]
+  },
+  {
+    "id": "112",
+    "name": "Belarus",
+    "code": "by",
+    "flag": "https://flagcdn.com/w320/by.png",
+    "capital": "Minsk",
+    "coordinates": [27.5615, 53.9045]
+  },
+  {
+    "id": "056",
+    "name": "Belgium",
+    "code": "be",
+    "flag": "https://flagcdn.com/w320/be.png",
+    "capital": "Brussels",
+    "coordinates": [4.3517, 50.8503]
+  },
+  {
+    "id": "084",
+    "name": "Belize",
+    "code": "bz",
+    "flag": "https://flagcdn.com/w320/bz.png",
+    "capital": "Belmopan",
+    "coordinates": [-88.1962, 17.2510]
+  },
+  {
+    "id": "204",
+    "name": "Benin",
+    "code": "bj",
+    "flag": "https://flagcdn.com/w320/bj.png",
+    "capital": "Porto-Novo",
+    "coordinates": [2.6323, 6.4969]
+  },
+  {
+    "id": "064",
+    "name": "Bhutan",
+    "code": "bt",
+    "flag": "https://flagcdn.com/w320/bt.png",
+    "capital": "Thimphu",
+    "coordinates": [89.6393, 27.4728]
+  },
+  {
+    "id": "068",
+    "name": "Bolivia",
+    "code": "bo",
+    "flag": "https://flagcdn.com/w320/bo.png",
+    "capital": "Sucre",
+    "coordinates": [-65.2592, -19.0196]
+  },
+  {
+    "id": "070",
+    "name": "Bosnia and Herzegovina",
+    "code": "ba",
+    "flag": "https://flagcdn.com/w320/ba.png",
+    "capital": "Sarajevo",
+    "coordinates": [18.4131, 43.8563]
+  },
+  {
+    "id": "072",
+    "name": "Botswana",
+    "code": "bw",
+    "flag": "https://flagcdn.com/w320/bw.png",
+    "capital": "Gaborone",
+    "coordinates": [25.9231, -24.6282]
+  },
+  {
+    "id": "076",
+    "name": "Brazil",
+    "code": "br",
+    "flag": "https://flagcdn.com/w320/br.png",
+    "capital": "Brasília",
+    "coordinates": [-47.8825, -15.7942]
+  },
+  {
+    "id": "096",
+    "name": "Brunei",
+    "code": "bn",
+    "flag": "https://flagcdn.com/w320/bn.png",
+    "capital": "Bandar Seri Begawan",
+    "coordinates": [114.9398, 4.9031]
+  },
+  {
+    "id": "100",
+    "name": "Bulgaria",
+    "code": "bg",
+    "flag": "https://flagcdn.com/w320/bg.png",
+    "capital": "Sofia",
+    "coordinates": [23.3219, 42.6977]
+  },
+  {
+    "id": "116",
+    "name": "Cambodia",
+    "code": "kh",
+    "flag": "https://flagcdn.com/w320/kh.png",
+    "capital": "Phnom Penh",
+    "coordinates": [104.9282, 11.5564]
+  },
+  {
+    "id": "120",
+    "name": "Cameroon",
+    "code": "cm",
+    "flag": "https://flagcdn.com/w320/cm.png",
+    "capital": "Yaoundé",
+    "coordinates": [11.5021, 3.8480]
+  },
+  {
+    "id": "124",
+    "name": "Canada",
+    "code": "ca",
+    "flag": "https://flagcdn.com/w320/ca.png",
+    "capital": "Ottawa",
+    "coordinates": [-75.6972, 45.4215]
+  },
+  {
+    "id": "148",
+    "name": "Chad",
+    "code": "td",
+    "flag": "https://flagcdn.com/w320/td.png",
+    "capital": "N'Djamena",
+    "coordinates": [15.0557, 12.1348]
+  },
+  {
+    "id": "152",
+    "name": "Chile",
+    "code": "cl",
+    "flag": "https://flagcdn.com/w320/cl.png",
+    "capital": "Santiago",
+    "coordinates": [-70.6483, -33.4489]
+  },
+  {
+    "id": "156",
+    "name": "China",
+    "code": "cn",
+    "flag": "https://flagcdn.com/w320/cn.png",
+    "capital": "Beijing",
+    "coordinates": [116.4074, 39.9042]
+  },
+  {
+    "id": "170",
+    "name": "Colombia",
+    "code": "co",
+    "flag": "https://flagcdn.com/w320/co.png",
+    "capital": "Bogotá",
+    "coordinates": [-74.0721, 4.7110]
+  },
+  {
+    "id": "188",
+    "name": "Costa Rica",
+    "code": "cr",
+    "flag": "https://flagcdn.com/w320/cr.png",
+    "capital": "San José",
+    "coordinates": [-84.0907, 9.9281]
+  },
+  {
+    "id": "191",
+    "name": "Croatia",
+    "code": "hr",
+    "flag": "https://flagcdn.com/w320/hr.png",
+    "capital": "Zagreb",
+    "coordinates": [15.9819, 45.8150]
+  },
+  {
+    "id": "192",
+    "name": "Cuba",
+    "code": "cu",
+    "flag": "https://flagcdn.com/w320/cu.png",
+    "capital": "Havana",
+    "coordinates": [-82.3666, 23.1136]
+  },
+  {
+    "id": "196",
+    "name": "Cyprus",
+    "code": "cy",
+    "flag": "https://flagcdn.com/w320/cy.png",
+    "capital": "Nicosia",
+    "coordinates": [33.3823, 35.1856]
+  },
+  {
+    "id": "203",
+    "name": "Czech Republic",
+    "code": "cz",
+    "flag": "https://flagcdn.com/w320/cz.png",
+    "capital": "Prague",
+    "coordinates": [14.4378, 50.0755]
+  },{
+    "id": "208",
+    "name": "Denmark",
+    "code": "dk",
+    "flag": "https://flagcdn.com/w320/dk.png",
+    "capital": "Copenhagen",
+    "coordinates": [12.5683, 55.6761]
+  },
+  {
+    "id": "214",
+    "name": "Dominican Republic",
+    "code": "do",
+    "flag": "https://flagcdn.com/w320/do.png",
+    "capital": "Santo Domingo",
+    "coordinates": [-69.9312, 18.4861]
+  },
+  {
+    "id": "218",
+    "name": "Ecuador",
+    "code": "ec",
+    "flag": "https://flagcdn.com/w320/ec.png",
+    "capital": "Quito",
+    "coordinates": [-78.4678, -0.1807]
+  },
+  {
+    "id": "818",
+    "name": "Egypt",
+    "code": "eg",
+    "flag": "https://flagcdn.com/w320/eg.png",
+    "capital": "Cairo",
+    "coordinates": [31.2357, 30.0444]
+  },
+  {
+    "id": "233",
+    "name": "Estonia",
+    "code": "ee",
+    "flag": "https://flagcdn.com/w320/ee.png",
+    "capital": "Tallinn",
+    "coordinates": [24.7536, 59.4370]
+  },
+  {
+    "id": "231",
+    "name": "Ethiopia",
+    "code": "et",
+    "flag": "https://flagcdn.com/w320/et.png",
+    "capital": "Addis Ababa",
+    "coordinates": [38.7578, 8.9806]
+  },
+  {
+    "id": "242",
+    "name": "Fiji",
+    "code": "fj",
+    "flag": "https://flagcdn.com/w320/fj.png",
+    "capital": "Suva",
+    "coordinates": [178.4419, -18.1248]
+  },
+  {
+    "id": "246",
+    "name": "Finland",
+    "code": "fi",
+    "flag": "https://flagcdn.com/w320/fi.png",
+    "capital": "Helsinki",
+    "coordinates": [24.9384, 60.1699]
+  },
+  {
+    "id": "250",
+    "name": "France",
+    "code": "fr",
+    "flag": "https://flagcdn.com/w320/fr.png",
+    "capital": "Paris",
+    "coordinates": [2.3522, 48.8566]
+  },
+  {
+    "id": "268",
+    "name": "Georgia",
+    "code": "ge",
+    "flag": "https://flagcdn.com/w320/ge.png",
+    "capital": "Tbilisi",
+    "coordinates": [44.8271, 41.7151]
+  },
+  {
+    "id": "276",
+    "name": "Germany",
+    "code": "de",
+    "flag": "https://flagcdn.com/w320/de.png",
+    "capital": "Berlin",
+    "coordinates": [13.4050, 52.5200]
+  },
+  {
+    "id": "288",
+    "name": "Ghana",
+    "code": "gh",
+    "flag": "https://flagcdn.com/w320/gh.png",
+    "capital": "Accra",
+    "coordinates": [-0.1869, 5.6037]
+  },
+  {
+    "id": "300",
+    "name": "Greece",
+    "code": "gr",
+    "flag": "https://flagcdn.com/w320/gr.png",
+    "capital": "Athens",
+    "coordinates": [23.7275, 37.9838]
+  },
+  {
+    "id": "320",
+    "name": "Guatemala",
+    "code": "gt",
+    "flag": "https://flagcdn.com/w320/gt.png",
+    "capital": "Guatemala City",
+    "coordinates": [-90.5069, 14.6349]
+  },
+  {
+    "id": "332",
+    "name": "Haiti",
+    "code": "ht",
+    "flag": "https://flagcdn.com/w320/ht.png",
+    "capital": "Port-au-Prince",
+    "coordinates": [-72.3074, 18.5944]
+  },
+  {
+    "id": "340",
+    "name": "Honduras",
+    "code": "hn",
+    "flag": "https://flagcdn.com/w320/hn.png",
+    "capital": "Tegucigalpa",
+    "coordinates": [-87.1921, 14.0723]
+  },
+  {
+    "id": "348",
+    "name": "Hungary",
+    "code": "hu",
+    "flag": "https://flagcdn.com/w320/hu.png",
+    "capital": "Budapest",
+    "coordinates": [19.0402, 47.4979]
+  },
+  {
+    "id": "352",
+    "name": "Iceland",
+    "code": "is",
+    "flag": "https://flagcdn.com/w320/is.png",
+    "capital": "Reykjavík",
+    "coordinates": [-21.9426, 64.1466]
+  },
+  {
+    "id": "356",
+    "name": "India",
+    "code": "in",
+    "flag": "https://flagcdn.com/w320/in.png",
+    "capital": "New Delhi",
+    "coordinates": [77.2090, 28.6139]
+  },
+  {
+    "id": "360",
+    "name": "Indonesia",
+    "code": "id",
+    "flag": "https://flagcdn.com/w320/id.png",
+    "capital": "Jakarta",
+    "coordinates": [106.8456, -6.2088]
+  },
+  {
+    "id": "364",
+    "name": "Iran",
+    "code": "ir",
+    "flag": "https://flagcdn.com/w320/ir.png",
+    "capital": "Tehran",
+    "coordinates": [51.3890, 35.6892]
+  },
+  {
+    "id": "368",
+    "name": "Iraq",
+    "code": "iq",
+    "flag": "https://flagcdn.com/w320/iq.png",
+    "capital": "Baghdad",
+    "coordinates": [44.3661, 33.3152]
+  },
+  {
+    "id": "372",
+    "name": "Ireland",
+    "code": "ie",
+    "flag": "https://flagcdn.com/w320/ie.png",
+    "capital": "Dublin",
+    "coordinates": [-6.2603, 53.3498]
+  },
+  {
+    "id": "376",
+    "name": "Israel",
+    "code": "il",
+    "flag": "https://flagcdn.com/w320/il.png",
+    "capital": "Jerusalem",
+    "coordinates": [35.2137, 31.7683]
+  },
+  {
+    "id": "380",
+    "name": "Italy",
+    "code": "it",
+    "flag": "https://flagcdn.com/w320/it.png",
+    "capital": "Rome",
+    "coordinates": [12.4964, 41.9028]
+  },
+  {
+    "id": "388",
+    "name": "Jamaica",
+    "code": "jm",
+    "flag": "https://flagcdn.com/w320/jm.png",
+    "capital": "Kingston",
+    "coordinates": [-76.7936, 17.9712]
+  },
+  {
+    "id": "392",
+    "name": "Japan",
+    "code": "jp",
+    "flag": "https://flagcdn.com/w320/jp.png",
+    "capital": "Tokyo",
+    "coordinates": [139.6917, 35.6895]
+  },
+  {
+    "id": "400",
+    "name": "Jordan",
+    "code": "jo",
+    "flag": "https://flagcdn.com/w320/jo.png",
+    "capital": "Amman",
+    "coordinates": [35.9106, 31.9539]
+  },
+  {
+    "id": "398",
+    "name": "Kazakhstan",
+    "code": "kz",
+    "flag": "https://flagcdn.com/w320/kz.png",
+    "capital": "Astana",
+    "coordinates": [71.4704, 51.1694]
+  },
+  {
+    "id": "404",
+    "name": "Kenya",
+    "code": "ke",
+    "flag": "https://flagcdn.com/w320/ke.png",
+    "capital": "Nairobi",
+    "coordinates": [36.8219, -1.2921]
+  },
+  {
+    "id": "414",
+    "name": "Kuwait",
+    "code": "kw",
+    "flag": "https://flagcdn.com/w320/kw.png",
+    "capital": "Kuwait City",
+    "coordinates": [47.9774, 29.3759]
+  },
+  {
+    "id": "418",
+    "name": "Laos",
+    "code": "la",
+    "flag": "https://flagcdn.com/w320/la.png",
+    "capital": "Vientiane",
+    "coordinates": [102.6331, 17.9757]
+  },
+  {
+    "id": "428",
+    "name": "Latvia",
+    "code": "lv",
+    "flag": "https://flagcdn.com/w320/lv.png",
+    "capital": "Riga",
+    "coordinates": [24.1052, 56.9496]
+  },
+  {
+    "id": "422",
+    "name": "Lebanon",
+    "code": "lb",
+    "flag": "https://flagcdn.com/w320/lb.png",
+    "capital": "Beirut",
+    "coordinates": [35.5018, 33.8938]
+  },
+  {
+    "id": "440",
+    "name": "Lithuania",
+    "code": "lt",
+    "flag": "https://flagcdn.com/w320/lt.png",
+    "capital": "Vilnius",
+    "coordinates": [25.2797, 54.6872]
+  },
+  {
+    "id": "442",
+    "name": "Luxembourg",
+    "code": "lu",
+    "flag": "https://flagcdn.com/w320/lu.png",
+    "capital": "Luxembourg",
+    "coordinates": [6.1319, 49.6116]
+  },{
+    "id": "450",
+    "name": "Madagascar",
+    "code": "mg",
+    "flag": "https://flagcdn.com/w320/mg.png",
+    "capital": "Antananarivo",
+    "coordinates": [47.5079, -18.8792]
+  },
+  {
+    "id": "458",
+    "name": "Malaysia",
+    "code": "my",
+    "flag": "https://flagcdn.com/w320/my.png",
+    "capital": "Kuala Lumpur",
+    "coordinates": [101.6869, 3.1390]
+  },
+  {
+    "id": "462",
+    "name": "Maldives",
+    "code": "mv",
+    "flag": "https://flagcdn.com/w320/mv.png",
+    "capital": "Malé",
+    "coordinates": [73.5093, 4.1755]
+  },
+  {
+    "id": "484",
+    "name": "Mexico",
+    "code": "mx",
+    "flag": "https://flagcdn.com/w320/mx.png",
+    "capital": "Mexico City",
+    "coordinates": [-99.1332, 19.4326]
+  },
+  {
+    "id": "498",
+    "name": "Moldova",
+    "code": "md",
+    "flag": "https://flagcdn.com/w320/md.png",
+    "capital": "Chișinău",
+    "coordinates": [28.8353, 47.0105]
+  },
+  {
+    "id": "492",
+    "name": "Monaco",
+    "code": "mc",
+    "flag": "https://flagcdn.com/w320/mc.png",
+    "capital": "Monaco",
+    "coordinates": [7.4246, 43.7384]
+  },
+  {
+    "id": "496",
+    "name": "Mongolia",
+    "code": "mn",
+    "flag": "https://flagcdn.com/w320/mn.png",
+    "capital": "Ulaanbaatar",
+    "coordinates": [106.9057, 47.8864]
+  },
+  {
+    "id": "504",
+    "name": "Morocco",
+    "code": "ma",
+    "flag": "https://flagcdn.com/w320/ma.png",
+    "capital": "Rabat",
+    "coordinates": [-6.8498, 34.0209]
+  },
+  {
+    "id": "524",
+    "name": "Nepal",
+    "code": "np",
+    "flag": "https://flagcdn.com/w320/np.png",
+    "capital": "Kathmandu",
+    "coordinates": [85.3240, 27.7172]
+  },
+  {
+    "id": "528",
+    "name": "Netherlands",
+    "code": "nl",
+    "flag": "https://flagcdn.com/w320/nl.png",
+    "capital": "Amsterdam",
+    "coordinates": [4.9041, 52.3676]
+  },
+  {
+    "id": "554",
+    "name": "New Zealand",
+    "code": "nz",
+    "flag": "https://flagcdn.com/w320/nz.png",
+    "capital": "Wellington",
+    "coordinates": [174.7762, -41.2865]
+  },
+  {
+    "id": "558",
+    "name": "Nicaragua",
+    "code": "ni",
+    "flag": "https://flagcdn.com/w320/ni.png",
+    "capital": "Managua",
+    "coordinates": [-86.2514, 12.1150]
+  },
+  {
+    "id": "566",
+    "name": "Nigeria",
+    "code": "ng",
+    "flag": "https://flagcdn.com/w320/ng.png",
+    "capital": "Abuja",
+    "coordinates": [7.4951, 9.0765]
+  },
+  {
+    "id": "408",
+    "name": "North Korea",
+    "code": "kp",
+    "flag": "https://flagcdn.com/w320/kp.png",
+    "capital": "Pyongyang",
+    "coordinates": [125.7625, 39.0392]
+  },
+  {
+    "id": "807",
+    "name": "North Macedonia",
+    "code": "mk",
+    "flag": "https://flagcdn.com/w320/mk.png",
+    "capital": "Skopje",
+    "coordinates": [21.4275, 42.0000]
+  },
+  {
+    "id": "578",
+    "name": "Norway",
+    "code": "no",
+    "flag": "https://flagcdn.com/w320/no.png",
+    "capital": "Oslo",
+    "coordinates": [10.7522, 59.9139]
+  },
+  {
+    "id": "512",
+    "name": "Oman",
+    "code": "om",
+    "flag": "https://flagcdn.com/w320/om.png",
+    "capital": "Muscat",
+    "coordinates": [58.4059, 23.5880]
+  },
+  {
+    "id": "586",
+    "name": "Pakistan",
+    "code": "pk",
+    "flag": "https://flagcdn.com/w320/pk.png",
+    "capital": "Islamabad",
+    "coordinates": [73.0479, 33.6844]
+  },
+  {
+    "id": "591",
+    "name": "Panama",
+    "code": "pa",
+    "flag": "https://flagcdn.com/w320/pa.png",
+    "capital": "Panama City",
+    "coordinates": [-79.5199, 8.9824]
+  },
+  {
+    "id": "598",
+    "name": "Papua New Guinea",
+    "code": "pg",
+    "flag": "https://flagcdn.com/w320/pg.png",
+    "capital": "Port Moresby",
+    "coordinates": [147.1797, -9.4438]
+  },
+  {
+    "id": "600",
+    "name": "Paraguay",
+    "code": "py",
+    "flag": "https://flagcdn.com/w320/py.png",
+    "capital": "Asunción",
+    "coordinates": [-57.5759, -25.2637]
+  },
+  {
+    "id": "604",
+    "name": "Peru",
+    "code": "pe",
+    "flag": "https://flagcdn.com/w320/pe.png",
+    "capital": "Lima",
+    "coordinates": [-77.0428, -12.0464]
+  },
+  {
+    "id": "608",
+    "name": "Philippines",
+    "code": "ph",
+    "flag": "https://flagcdn.com/w320/ph.png",
+    "capital": "Manila",
+    "coordinates": [120.9842, 14.5995]
+  },
+  {
+    "id": "616",
+    "name": "Poland",
+    "code": "pl",
+    "flag": "https://flagcdn.com/w320/pl.png",
+    "capital": "Warsaw",
+    "coordinates": [21.0122, 52.2297]
+  },
+  {
+    "id": "620",
+    "name": "Portugal",
+    "code": "pt",
+    "flag": "https://flagcdn.com/w320/pt.png",
+    "capital": "Lisbon",
+    "coordinates": [-9.1393, 38.7223]
+  },
+  {
+    "id": "634",
+    "name": "Qatar",
+    "code": "qa",
+    "flag": "https://flagcdn.com/w320/qa.png",
+    "capital": "Doha",
+    "coordinates": [51.5310, 25.2854]
+  },
+  {
+    "id": "642",
+    "name": "Romania",
+    "code": "ro",
+    "flag": "https://flagcdn.com/w320/ro.png",
+    "capital": "Bucharest",
+    "coordinates": [26.1025, 44.4268]
+  },
+  {
+    "id": "643",
+    "name": "Russia",
+    "code": "ru",
+    "flag": "https://flagcdn.com/w320/ru.png",
+    "capital": "Moscow",
+    "coordinates": [37.6173, 55.7558]
+  },
+  {
+    "id": "646",
+    "name": "Rwanda",
+    "code": "rw",
+    "flag": "https://flagcdn.com/w320/rw.png",
+    "capital": "Kigali",
+    "coordinates": [30.0619, -1.9441]
+  },
+  {
+    "id": "682",
+    "name": "Saudi Arabia",
+    "code": "sa",
+    "flag": "https://flagcdn.com/w320/sa.png",
+    "capital": "Riyadh",
+    "coordinates": [46.6753, 24.7136]
+  },
+  {
+    "id": "686",
+    "name": "Senegal",
+    "code": "sn",
+    "flag": "https://flagcdn.com/w320/sn.png",
+    "capital": "Dakar",
+    "coordinates": [-17.4677, 14.7167]
+  },
+  {
+    "id": "688",
+    "name": "Serbia",
+    "code": "rs",
+    "flag": "https://flagcdn.com/w320/rs.png",
+    "capital": "Belgrade",
+    "coordinates": [20.4489, 44.7866]
+  },
+  {
+    "id": "702",
+    "name": "Singapore",
+    "code": "sg",
+    "flag": "https://flagcdn.com/w320/sg.png",
+    "capital": "Singapore",
+    "coordinates": [103.8198, 1.3521]
+  },
+  {
+    "id": "703",
+    "name": "Slovakia",
+    "code": "sk",
+    "flag": "https://flagcdn.com/w320/sk.png",
+    "capital": "Bratislava",
+    "coordinates": [17.1077, 48.1486]
+  },
+  {
+    "id": "705",
+    "name": "Slovenia",
+    "code": "si",
+    "flag": "https://flagcdn.com/w320/si.png",
+    "capital": "Ljubljana",
+    "coordinates": [14.5058, 46.0569]
+  },
+  {
+    "id": "710",
+    "name": "South Africa",
+    "code": "za",
+    "flag": "https://flagcdn.com/w320/za.png",
+    "capital": "Pretoria",
+    "coordinates": [28.2293, -25.7479]
+  },
+  {
+    "id": "410",
+    "name": "South Korea",
+    "code": "kr",
+    "flag": "https://flagcdn.com/w320/kr.png",
+    "capital": "Seoul",
+    "coordinates": [126.9780, 37.5665]
+  },
+  {
+    "id": "724",
+    "name": "Spain",
+    "code": "es",
+    "flag": "https://flagcdn.com/w320/es.png",
+    "capital": "Madrid",
+    "coordinates": [-3.7038, 40.4168]
+  },{
+    "id": "144",
+    "name": "Sri Lanka",
+    "code": "lk",
+    "flag": "https://flagcdn.com/w320/lk.png",
+    "capital": "Sri Jayawardenepura Kotte",
+    "coordinates": [79.8737, 6.8941]
+  },
+  {
+    "id": "729",
+    "name": "Sudan",
+    "code": "sd",
+    "flag": "https://flagcdn.com/w320/sd.png",
+    "capital": "Khartoum",
+    "coordinates": [32.5599, 15.5007]
+  },
+  {
+    "id": "752",
+    "name": "Sweden",
+    "code": "se",
+    "flag": "https://flagcdn.com/w320/se.png",
+    "capital": "Stockholm",
+    "coordinates": [18.0686, 59.3293]
+  },
+  {
+    "id": "756",
+    "name": "Switzerland",
+    "code": "ch",
+    "flag": "https://flagcdn.com/w320/ch.png",
+    "capital": "Bern",
+    "coordinates": [7.4474, 46.9480]
+  },
+  {
+    "id": "760",
+    "name": "Syria",
+    "code": "sy",
+    "flag": "https://flagcdn.com/w320/sy.png",
+    "capital": "Damascus",
+    "coordinates": [36.2765, 33.5138]
+  },
+  {
+    "id": "158",
+    "name": "Taiwan",
+    "code": "tw",
+    "flag": "https://flagcdn.com/w320/tw.png",
+    "capital": "Taipei",
+    "coordinates": [121.5654, 25.0330]
+  },
+  {
+    "id": "762",
+    "name": "Tajikistan",
+    "code": "tj",
+    "flag": "https://flagcdn.com/w320/tj.png",
+    "capital": "Dushanbe",
+    "coordinates": [68.7738, 38.5598]
+  },
+  {
+    "id": "764",
+    "name": "Thailand",
+    "code": "th",
+    "flag": "https://flagcdn.com/w320/th.png",
+    "capital": "Bangkok",
+    "coordinates": [100.5018, 13.7563]
+  },
+  {
+    "id": "626",
+    "name": "Timor-Leste",
+    "code": "tl",
+    "flag": "https://flagcdn.com/w320/tl.png",
+    "capital": "Dili",
+    "coordinates": [125.5736, -8.5569]
+  },
+  {
+    "id": "768",
+    "name": "Togo",
+    "code": "tg",
+    "flag": "https://flagcdn.com/w320/tg.png",
+    "capital": "Lomé",
+    "coordinates": [1.2228, 6.1319]
+  },
+  {
+    "id": "776",
+    "name": "Tonga",
+    "code": "to",
+    "flag": "https://flagcdn.com/w320/to.png",
+    "capital": "Nuku'alofa",
+    "coordinates": [-175.1982, -21.1394]
+  },
+  {
+    "id": "780",
+    "name": "Trinidad and Tobago",
+    "code": "tt",
+    "flag": "https://flagcdn.com/w320/tt.png",
+    "capital": "Port of Spain",
+    "coordinates": [-61.5190, 10.6549]
+  },
+  {
+    "id": "788",
+    "name": "Tunisia",
+    "code": "tn",
+    "flag": "https://flagcdn.com/w320/tn.png",
+    "capital": "Tunis",
+    "coordinates": [10.1815, 36.8065]
+  },
+  {
+    "id": "792",
+    "name": "Turkey",
+    "code": "tr",
+    "flag": "https://flagcdn.com/w320/tr.png",
+    "capital": "Ankara",
+    "coordinates": [32.8597, 39.9334]
+  },
+  {
+    "id": "795",
+    "name": "Turkmenistan",
+    "code": "tm",
+    "flag": "https://flagcdn.com/w320/tm.png",
+    "capital": "Ashgabat",
+    "coordinates": [58.3833, 37.9601]
+  },
+  {
+    "id": "800",
+    "name": "Uganda",
+    "code": "ug",
+    "flag": "https://flagcdn.com/w320/ug.png",
+    "capital": "Kampala",
+    "coordinates": [32.5825, 0.3476]
+  },
+  {
+    "id": "804",
+    "name": "Ukraine",
+    "code": "ua",
+    "flag": "https://flagcdn.com/w320/ua.png",
+    "capital": "Kyiv",
+    "coordinates": [30.5234, 50.4501]
+  },
+  {
+    "id": "784",
+    "name": "United Arab Emirates",
+    "code": "ae",
+    "flag": "https://flagcdn.com/w320/ae.png",
+    "capital": "Abu Dhabi",
+    "coordinates": [54.3773, 24.4539]
+  },
+  {
+    "id": "826",
+    "name": "United Kingdom",
+    "code": "gb",
+    "flag": "https://flagcdn.com/w320/gb.png",
+    "capital": "London",
+    "coordinates": [-0.1276, 51.5072]
+  },
+  {
+    "id": "840",
+    "name": "United States",
+    "code": "us",
+    "flag": "https://flagcdn.com/w320/us.png",
+    "capital": "Washington, D.C.",
+    "coordinates": [-77.0369, 38.9072]
+  },
+  {
+    "id": "858",
+    "name": "Uruguay",
+    "code": "uy",
+    "flag": "https://flagcdn.com/w320/uy.png",
+    "capital": "Montevideo",
+    "coordinates": [-56.1645, -34.9011]
+  },
+  {
+    "id": "860",
+    "name": "Uzbekistan",
+    "code": "uz",
+    "flag": "https://flagcdn.com/w320/uz.png",
+    "capital": "Tashkent",
+    "coordinates": [69.2401, 41.2995]
+  },
+  {
+    "id": "548",
+    "name": "Vanuatu",
+    "code": "vu",
+    "flag": "https://flagcdn.com/w320/vu.png",
+    "capital": "Port Vila",
+    "coordinates": [168.3273, -17.7333]
+  },
+  {
+    "id": "336",
+    "name": "Vatican City",
+    "code": "va",
+    "flag": "https://flagcdn.com/w320/va.png",
+    "capital": "Vatican City",
+    "coordinates": [12.4534, 41.9029]
+  },
+  {
+    "id": "862",
+    "name": "Venezuela",
+    "code": "ve",
+    "flag": "https://flagcdn.com/w320/ve.png",
+    "capital": "Caracas",
+    "coordinates": [-66.9036, 10.4806]
+  },
+  {
+    "id": "704",
+    "name": "Vietnam",
+    "code": "vn",
+    "flag": "https://flagcdn.com/w320/vn.png",
+    "capital": "Hanoi",
+    "coordinates": [105.8342, 21.0278]
+  },
+  {
+    "id": "887",
+    "name": "Yemen",
+    "code": "ye",
+    "flag": "https://flagcdn.com/w320/ye.png",
+    "capital": "Sana'a",
+    "coordinates": [44.2075, 15.3694]
+  },
+  {
+    "id": "894",
+    "name": "Zambia",
+    "code": "zm",
+    "flag": "https://flagcdn.com/w320/zm.png",
+    "capital": "Lusaka",
+    "coordinates": [28.3228, -15.3875]
+  },
+  {
+    "id": "716",
+    "name": "Zimbabwe",
+    "code": "zw",
+    "flag": "https://flagcdn.com/w320/zw.png",
+    "capital": "Harare",
+    "coordinates": [31.0335, -17.8252]
+  }]

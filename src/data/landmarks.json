@@ -1,0 +1,1093 @@
+[
+  {
+    "id": 1,
+    "name": "Eiffel Tower",
+    "wiki": "Eiffel Tower",
+    "lat": 48.85837,
+    "lng": 2.294481
+  },
+  {
+    "id": 2,
+    "name": "Colosseum",
+    "wiki": "Colosseum",
+    "lat": 41.89021,
+    "lng": 12.492231
+  },
+  {
+    "id": 3,
+    "name": "Leaning Tower of Pisa",
+    "wiki": "Leaning Tower of Pisa",
+    "lat": 43.723,
+    "lng": 10.3966
+  },
+  {
+    "id": 4,
+    "name": "Big Ben",
+    "wiki": "Big Ben",
+    "lat": 51.5007,
+    "lng": -0.1246
+  },
+  {
+    "id": 5,
+    "name": "Stonehenge",
+    "wiki": "Stonehenge",
+    "lat": 51.1789,
+    "lng": -1.8262
+  },
+  {
+    "id": 6,
+    "name": "Acropolis of Athens",
+    "wiki": "Acropolis of Athens",
+    "lat": 37.9715,
+    "lng": 23.7257
+  },
+  {
+    "id": 7,
+    "name": "Sagrada Familia",
+    "wiki": "Sagrada Família",
+    "lat": 41.4036,
+    "lng": 2.1744
+  },
+  {
+    "id": 8,
+    "name": "Neuschwanstein Castle",
+    "wiki": "Neuschwanstein Castle",
+    "lat": 47.5576,
+    "lng": 10.7498
+  },
+  {
+    "id": 9,
+    "name": "Brandenburg Gate",
+    "wiki": "Brandenburg Gate",
+    "lat": 52.5163,
+    "lng": 13.3777
+  },
+  {
+    "id": 10,
+    "name": "Arc de Triomphe",
+    "wiki": "Arc de Triomphe",
+    "lat": 48.8738,
+    "lng": 2.295
+  },
+  {
+    "id": 11,
+    "name": "Palace of Versailles",
+    "wiki": "Palace of Versailles",
+    "lat": 48.8049,
+    "lng": 2.1204
+  },
+  {
+    "id": 12,
+    "name": "Mont Saint-Michel",
+    "wiki": "Mont-Saint-Michel",
+    "lat": 48.636,
+    "lng": -1.5115
+  },
+  {
+    "id": 13,
+    "name": "Louvre Museum",
+    "wiki": "Louvre",
+    "lat": 48.8606,
+    "lng": 2.3376
+  },
+  {
+    "id": 14,
+    "name": "Tower Bridge",
+    "wiki": "Tower Bridge",
+    "lat": 51.5055,
+    "lng": -0.0754
+  },
+  {
+    "id": 15,
+    "name": "Edinburgh Castle",
+    "wiki": "Edinburgh Castle",
+    "lat": 55.9486,
+    "lng": -3.1999
+  },
+  {
+    "id": 16,
+    "name": "Charles Bridge",
+    "wiki": "Charles Bridge",
+    "lat": 50.0865,
+    "lng": 14.4114
+  },
+  {
+    "id": 17,
+    "name": "St. Basil's Cathedral",
+    "wiki": "Saint Basil's Cathedral",
+    "lat": 55.7525,
+    "lng": 37.6231
+  },
+  {
+    "id": 18,
+    "name": "Kremlin",
+    "wiki": "Kremlin",
+    "lat": 55.752,
+    "lng": 37.6175
+  },
+  {
+    "id": 19,
+    "name": "Hagia Sophia",
+    "wiki": "Hagia Sophia",
+    "lat": 41.0086,
+    "lng": 28.9802
+  },
+  {
+    "id": 20,
+    "name": "Blue Mosque",
+    "wiki": "Blue Mosque, Istanbul",
+    "lat": 41.0054,
+    "lng": 28.9768
+  },
+  {
+    "id": 21,
+    "name": "Alhambra",
+    "wiki": "Alhambra",
+    "lat": 37.1761,
+    "lng": -3.5881
+  },
+  {
+    "id": 22,
+    "name": "Mezquita of Córdoba",
+    "wiki": "Mosque–Cathedral of Córdoba",
+    "lat": 37.8789,
+    "lng": -4.7794
+  },
+  {
+    "id": 23,
+    "name": "Duomo di Milano",
+    "wiki": "Milan Cathedral",
+    "lat": 45.4642,
+    "lng": 9.1916
+  },
+  {
+    "id": 24,
+    "name": "Florence Cathedral",
+    "wiki": "Florence Cathedral",
+    "lat": 43.7731,
+    "lng": 11.256
+  },
+  {
+    "id": 25,
+    "name": "Cinque Terre",
+    "wiki": "Cinque Terre",
+    "lat": 44.1461,
+    "lng": 9.6544
+  },
+  {
+    "id": 26,
+    "name": "Cliffs of Moher",
+    "wiki": "Cliffs of Moher",
+    "lat": 53.0072,
+    "lng": -9.4187
+  },
+  {
+    "id": 27,
+    "name": "Giant's Causeway",
+    "wiki": "Giant's Causeway",
+    "lat": 55.2408,
+    "lng": -6.5116
+  },
+  {
+    "id": 28,
+    "name": "Hallstatt",
+    "wiki": "Hallstatt",
+    "lat": 47.5622,
+    "lng": 13.6493
+  },
+  {
+    "id": 29,
+    "name": "Meteora Monasteries",
+    "wiki": "Meteora",
+    "lat": 39.7217,
+    "lng": 21.6306
+  },
+  {
+    "id": 30,
+    "name": "Schönbrunn Palace",
+    "wiki": "Schönbrunn Palace",
+    "lat": 48.1845,
+    "lng": 16.3122
+  },
+  {
+    "id": 31,
+    "name": "Belém Tower",
+    "wiki": "Belém Tower",
+    "lat": 38.6916,
+    "lng": -9.216
+  },
+  {
+    "id": 32,
+    "name": "Pena Palace",
+    "wiki": "Pena Palace",
+    "lat": 38.7876,
+    "lng": -9.3906
+  },
+  {
+    "id": 33,
+    "name": "Dubrovnik Old Town",
+    "wiki": "Walls of Dubrovnik",
+    "lat": 42.6411,
+    "lng": 18.108
+  },
+  {
+    "id": 34,
+    "name": "Plitvice Lakes",
+    "wiki": "Plitvice Lakes National Park",
+    "lat": 44.8654,
+    "lng": 15.582
+  },
+  {
+    "id": 35,
+    "name": "Matterhorn",
+    "wiki": "Matterhorn",
+    "lat": 45.9763,
+    "lng": 7.6586
+  },
+  {
+    "id": 36,
+    "name": "Mont Blanc",
+    "wiki": "Mont Blanc",
+    "lat": 45.8326,
+    "lng": 6.8652
+  },
+  {
+    "id": 37,
+    "name": "Swiss Alps",
+    "wiki": "Swiss Alps",
+    "lat": 46.5609,
+    "lng": 8.5615
+  },
+  {
+    "id": 38,
+    "name": "Rila Monastery",
+    "wiki": "Rila Monastery",
+    "lat": 42.133,
+    "lng": 23.3408
+  },
+  {
+    "id": 39,
+    "name": "Stari Most Bridge",
+    "wiki": "Stari Most",
+    "lat": 43.3373,
+    "lng": 17.815
+  },
+  {
+    "id": 40,
+    "name": "Blue Lagoon",
+    "wiki": "Blue Lagoon (geothermal spa)",
+    "lat": 63.8804,
+    "lng": -22.4495
+  },
+  {
+    "id": 41,
+    "name": "Great Wall of China",
+    "wiki": "Great Wall of China",
+    "lat": 40.4319,
+    "lng": 116.5704
+  },
+  {
+    "id": 42,
+    "name": "Forbidden City",
+    "wiki": "Forbidden City",
+    "lat": 39.9163,
+    "lng": 116.3972
+  },
+  {
+    "id": 43,
+    "name": "Terracotta Army",
+    "wiki": "Terracotta Army",
+    "lat": 34.3841,
+    "lng": 109.2734
+  },
+  {
+    "id": 44,
+    "name": "Temple of Heaven",
+    "wiki": "Temple of Heaven",
+    "lat": 39.8822,
+    "lng": 116.4066
+  },
+  {
+    "id": 45,
+    "name": "Mount Fuji",
+    "wiki": "Mount Fuji",
+    "lat": 35.3606,
+    "lng": 138.7274
+  },
+  {
+    "id": 46,
+    "name": "Fushimi Inari Shrine",
+    "wiki": "Fushimi Inari-taisha",
+    "lat": 34.9671,
+    "lng": 135.7727
+  },
+  {
+    "id": 47,
+    "name": "Kinkaku-ji Golden Pavilion",
+    "wiki": "Kinkaku-ji",
+    "lat": 35.0394,
+    "lng": 135.7292
+  },
+  {
+    "id": 48,
+    "name": "Tokyo Tower",
+    "wiki": "Tokyo Tower",
+    "lat": 35.6586,
+    "lng": 139.7454
+  },
+  {
+    "id": 49,
+    "name": "Taj Mahal",
+    "wiki": "Taj Mahal",
+    "lat": 27.1751,
+    "lng": 78.0421
+  },
+  {
+    "id": 50,
+    "name": "Red Fort",
+    "wiki": "Red Fort",
+    "lat": 28.6562,
+    "lng": 77.241
+  },
+  {
+    "id": 51,
+    "name": "Gateway of India",
+    "wiki": "Gateway of India",
+    "lat": 18.922,
+    "lng": 72.8347
+  },
+  {
+    "id": 52,
+    "name": "Hawa Mahal",
+    "wiki": "Hawa Mahal",
+    "lat": 26.9239,
+    "lng": 75.8267
+  },
+  {
+    "id": 53,
+    "name": "Qutub Minar",
+    "wiki": "Qutb Minar",
+    "lat": 28.5244,
+    "lng": 77.1855
+  },
+  {
+    "id": 54,
+    "name": "Angkor Wat",
+    "wiki": "Angkor Wat",
+    "lat": 13.4125,
+    "lng": 103.867
+  },
+  {
+    "id": 55,
+    "name": "Borobudur Temple",
+    "wiki": "Borobudur",
+    "lat": -7.6079,
+    "lng": 110.2038
+  },
+  {
+    "id": 56,
+    "name": "Prambanan Temple",
+    "wiki": "Prambanan",
+    "lat": -7.752,
+    "lng": 110.4915
+  },
+  {
+    "id": 57,
+    "name": "Petronas Towers",
+    "wiki": "Petronas Towers",
+    "lat": 3.1579,
+    "lng": 101.7117
+  },
+  {
+    "id": 58,
+    "name": "Marina Bay Sands",
+    "wiki": "Marina Bay Sands",
+    "lat": 1.2834,
+    "lng": 103.8607
+  },
+  {
+    "id": 59,
+    "name": "Ha Long Bay",
+    "wiki": "Hạ Long Bay",
+    "lat": 20.9101,
+    "lng": 107.1839
+  },
+  {
+    "id": 60,
+    "name": "Himeji Castle",
+    "wiki": "Himeji Castle",
+    "lat": 34.8394,
+    "lng": 134.6939
+  },
+  {
+    "id": 61,
+    "name": "Petra",
+    "wiki": "Petra",
+    "lat": 30.3285,
+    "lng": 35.4444
+  },
+  {
+    "id": 62,
+    "name": "Burj Khalifa",
+    "wiki": "Burj Khalifa",
+    "lat": 25.1972,
+    "lng": 55.2744
+  },
+  {
+    "id": 63,
+    "name": "Sheikh Zayed Grand Mosque",
+    "wiki": "Sheikh Zayed Grand Mosque",
+    "lat": 24.4128,
+    "lng": 54.4749
+  },
+  {
+    "id": 64,
+    "name": "Göreme Open Air Museum",
+    "wiki": "Göreme",
+    "lat": 38.641,
+    "lng": 34.8307
+  },
+  {
+    "id": 65,
+    "name": "Pamukkale",
+    "wiki": "Pamukkale",
+    "lat": 37.9137,
+    "lng": 29.1187
+  },
+  {
+    "id": 66,
+    "name": "Mount Everest",
+    "wiki": "Mount Everest",
+    "lat": 27.9881,
+    "lng": 86.925
+  },
+  {
+    "id": 67,
+    "name": "Potala Palace",
+    "wiki": "Potala Palace",
+    "lat": 29.6578,
+    "lng": 91.1169
+  },
+  {
+    "id": 68,
+    "name": "Bagan Temples",
+    "wiki": "Bagan",
+    "lat": 21.1717,
+    "lng": 94.8585
+  },
+  {
+    "id": 69,
+    "name": "Shwedagon Pagoda",
+    "wiki": "Shwedagon Pagoda",
+    "lat": 16.7983,
+    "lng": 96.1495
+  },
+  {
+    "id": 70,
+    "name": "Sigiriya Rock Fortress",
+    "wiki": "Sigiriya",
+    "lat": 7.957,
+    "lng": 80.7603
+  },
+  {
+    "id": 71,
+    "name": "Jeju Island",
+    "wiki": "Jeju Island",
+    "lat": 33.3617,
+    "lng": 126.5292
+  },
+  {
+    "id": 72,
+    "name": "Gyeongbokgung Palace",
+    "wiki": "Gyeongbokgung",
+    "lat": 37.5796,
+    "lng": 126.977
+  },
+  {
+    "id": 73,
+    "name": "Chocolate Hills",
+    "wiki": "Chocolate Hills",
+    "lat": 9.8569,
+    "lng": 124.1435
+  },
+  {
+    "id": 74,
+    "name": "Komodo National Park",
+    "wiki": "Komodo National Park",
+    "lat": -8.55,
+    "lng": 119.5
+  },
+  {
+    "id": 75,
+    "name": "Dead Sea",
+    "wiki": "Dead Sea",
+    "lat": 31.559,
+    "lng": 35.4732
+  },
+  {
+    "id": 76,
+    "name": "Statue of Liberty",
+    "wiki": "Statue of Liberty",
+    "lat": 40.6892,
+    "lng": -74.0445
+  },
+  {
+    "id": 77,
+    "name": "Grand Canyon",
+    "wiki": "Grand Canyon",
+    "lat": 36.1069,
+    "lng": -112.1129
+  },
+  {
+    "id": 78,
+    "name": "Golden Gate Bridge",
+    "wiki": "Golden Gate Bridge",
+    "lat": 37.8199,
+    "lng": -122.4783
+  },
+  {
+    "id": 79,
+    "name": "Mount Rushmore",
+    "wiki": "Mount Rushmore",
+    "lat": 43.8791,
+    "lng": -103.4591
+  },
+  {
+    "id": 80,
+    "name": "Niagara Falls",
+    "wiki": "Niagara Falls",
+    "lat": 43.0962,
+    "lng": -79.0377
+  },
+  {
+    "id": 81,
+    "name": "White House",
+    "wiki": "White House",
+    "lat": 38.8977,
+    "lng": -77.0365
+  },
+  {
+    "id": 82,
+    "name": "Empire State Building",
+    "wiki": "Empire State Building",
+    "lat": 40.7484,
+    "lng": -73.9857
+  },
+  {
+    "id": 83,
+    "name": "Times Square",
+    "wiki": "Times Square",
+    "lat": 40.758,
+    "lng": -73.9855
+  },
+  {
+    "id": 84,
+    "name": "Yellowstone National Park",
+    "wiki": "Yellowstone National Park",
+    "lat": 44.428,
+    "lng": -110.5885
+  },
+  {
+    "id": 85,
+    "name": "Yosemite Valley",
+    "wiki": "Yosemite National Park",
+    "lat": 37.7456,
+    "lng": -119.5936
+  },
+  {
+    "id": 86,
+    "name": "Bryce Canyon",
+    "wiki": "Bryce Canyon National Park",
+    "lat": 37.6283,
+    "lng": -112.1677
+  },
+  {
+    "id": 87,
+    "name": "Zion National Park",
+    "wiki": "Zion National Park",
+    "lat": 37.2982,
+    "lng": -113.0263
+  },
+  {
+    "id": 88,
+    "name": "Alcatraz Island",
+    "wiki": "Alcatraz Island",
+    "lat": 37.8267,
+    "lng": -122.423
+  },
+  {
+    "id": 89,
+    "name": "Space Needle",
+    "wiki": "Space Needle",
+    "lat": 47.6205,
+    "lng": -122.3493
+  },
+  {
+    "id": 90,
+    "name": "Capitol Building",
+    "wiki": "United States Capitol",
+    "lat": 38.8899,
+    "lng": -77.0091
+  },
+  {
+    "id": 91,
+    "name": "Chichén Itzá",
+    "wiki": "Chichen Itza",
+    "lat": 20.6843,
+    "lng": -88.5678
+  },
+  {
+    "id": 92,
+    "name": "Teotihuacán",
+    "wiki": "Teotihuacan",
+    "lat": 19.6925,
+    "lng": -98.8438
+  },
+  {
+    "id": 93,
+    "name": "Tulum Ruins",
+    "wiki": "Tulum",
+    "lat": 20.2149,
+    "lng": -87.429
+  },
+  {
+    "id": 94,
+    "name": "Palenque",
+    "wiki": "Palenque",
+    "lat": 17.483,
+    "lng": -92.046
+  },
+  {
+    "id": 95,
+    "name": "Banff National Park",
+    "wiki": "Banff National Park",
+    "lat": 51.4968,
+    "lng": -115.9281
+  },
+  {
+    "id": 96,
+    "name": "CN Tower",
+    "wiki": "CN Tower",
+    "lat": 43.6426,
+    "lng": -79.3871
+  },
+  {
+    "id": 97,
+    "name": "Moraine Lake",
+    "wiki": "Moraine Lake",
+    "lat": 51.3217,
+    "lng": -116.186
+  },
+  {
+    "id": 98,
+    "name": "Lake Louise",
+    "wiki": "Lake Louise (Alberta)",
+    "lat": 51.4254,
+    "lng": -116.1773
+  },
+  {
+    "id": 99,
+    "name": "Hoover Dam",
+    "wiki": "Hoover Dam",
+    "lat": 36.0161,
+    "lng": -114.7377
+  },
+  {
+    "id": 100,
+    "name": "Monument Valley",
+    "wiki": "Monument Valley",
+    "lat": 36.998,
+    "lng": -110.0985
+  },
+  {
+    "id": 101,
+    "name": "Antelope Canyon",
+    "wiki": "Antelope_Canyon",
+    "lat": 36.8619,
+    "lng": -111.3743
+  },
+  {
+    "id": 102,
+    "name": "Peggy's Cove Lighthouse",
+    "wiki": "Peggys Point Lighthouse",
+    "lat": 44.4938,
+    "lng": -63.915
+  },
+  {
+    "id": 103,
+    "name": "Hopewell Rocks",
+    "wiki": "Hopewell_Rocks",
+    "lat": 45.8214,
+    "lng": -64.5788
+  },
+  {
+    "id": 104,
+    "name": "Denali",
+    "wiki": "Denali",
+    "lat": 63.0695,
+    "lng": -151.0074
+  },
+  {
+    "id": 105,
+    "name": "Kennedy Space Center",
+    "wiki": "Kennedy_Space_Center",
+    "lat": 28.5729,
+    "lng": -80.649
+  },
+  {
+    "id": 106,
+    "name": "Christ the Redeemer",
+    "wiki": "Christ_the_Redeemer_(statue)",
+    "lat": -22.9519,
+    "lng": -43.2105
+  },
+  {
+    "id": 107,
+    "name": "Machu Picchu",
+    "wiki": "Machu_Picchu",
+    "lat": -13.1631,
+    "lng": -72.545
+  },
+  {
+    "id": 108,
+    "name": "Iguazu Falls",
+    "wiki": "Iguazu Falls",
+    "lat": -25.6953,
+    "lng": -54.4367
+  },
+  {
+    "id": 109,
+    "name": "Sugarloaf Mountain",
+    "wiki": "Sugarloaf Mountain",
+    "lat": -22.9492,
+    "lng": -43.1545
+  },
+  {
+    "id": 110,
+    "name": "Moai Statues of Easter Island",
+    "wiki": "Moai",
+    "lat": -27.1127,
+    "lng": -109.3497
+  },
+  {
+    "id": 111,
+    "name": "Torres del Paine",
+    "wiki": "Torres_del_Paine_National_Park",
+    "lat": -50.9423,
+    "lng": -73.4068
+  },
+  {
+    "id": 112,
+    "name": "Perito Moreno Glacier",
+    "wiki": "Perito_Moreno_Glacier",
+    "lat": -50.4966,
+    "lng": -73.1371
+  },
+  {
+    "id": 113,
+    "name": "Atacama Desert",
+    "wiki": "Atacama_Desert",
+    "lat": -23.8634,
+    "lng": -69.1328
+  },
+  {
+    "id": 114,
+    "name": "Galápagos Islands",
+    "wiki": "Galápagos Islands",
+    "lat": -0.9538,
+    "lng": -90.9656
+  },
+  {
+    "id": 115,
+    "name": "Angel Falls",
+    "wiki": "Angel_Falls",
+    "lat": 5.967,
+    "lng": -62.535
+  },
+  {
+    "id": 116,
+    "name": "Salar de Uyuni",
+    "wiki": "Salar_de_Uyuni",
+    "lat": -20.1338,
+    "lng": -66.4891
+  },
+  {
+    "id": 117,
+    "name": "Lake Titicaca",
+    "wiki": "Lake_Titicaca",
+    "lat": -15.9254,
+    "lng": -69.3354
+  },
+  {
+    "id": 118,
+    "name": "Amazon Rainforest",
+    "wiki": "Amazon_rainforest",
+    "lat": -3.4653,
+    "lng": -62.2159
+  },
+  {
+    "id": 119,
+    "name": "Sacred Valley",
+    "wiki": "Sacred_Valley",
+    "lat": -13.329,
+    "lng": -72.116
+  },
+  {
+    "id": 120,
+    "name": "Brasília Cathedral",
+    "wiki": "Cathedral of Brasília",
+    "lat": -15.798,
+    "lng": -47.875
+  },
+  {
+    "id": 121,
+    "name": "Teatro Colón",
+    "wiki": "Teatro Colón",
+    "lat": -34.601,
+    "lng": -58.383
+  },
+  {
+    "id": 122,
+    "name": "Lençóis Maranhenses",
+    "wiki": "Lençóis Maranhenses National Park",
+    "lat": -2.481,
+    "lng": -43.128
+  },
+  {
+    "id": 123,
+    "name": "Cotopaxi Volcano",
+    "wiki": "Cotopaxi",
+    "lat": -0.677,
+    "lng": -78.4369
+  },
+  {
+    "id": 124,
+    "name": "Mount Roraima",
+    "wiki": "Mount_Roraima",
+    "lat": 5.143,
+    "lng": -60.763
+  },
+  {
+    "id": 125,
+    "name": "Punta del Este Hand Sculpture",
+    "wiki": "La Mano de Punta del Este",
+    "lat": -34.961,
+    "lng": -54.937
+  },
+  {
+    "id": 126,
+    "name": "Pyramids of Giza",
+    "wiki": "Giza_pyramid_complex",
+    "lat": 29.9792,
+    "lng": 31.1342
+  },
+  {
+    "id": 127,
+    "name": "Great Sphinx of Giza",
+    "wiki": "Great_Sphinx_of_Giza",
+    "lat": 29.9753,
+    "lng": 31.1376
+  },
+  {
+    "id": 128,
+    "name": "Abu Simbel Temples",
+    "wiki": "Abu_Simbel",
+    "lat": 22.3372,
+    "lng": 31.6258
+  },
+  {
+    "id": 129,
+    "name": "Valley of the Kings",
+    "wiki": "Valley_of_the_Kings",
+    "lat": 25.7402,
+    "lng": 32.6014
+  },
+  {
+    "id": 130,
+    "name": "Table Mountain",
+    "wiki": "Table Mountain",
+    "lat": -33.9628,
+    "lng": 18.4098
+  },
+  {
+    "id": 131,
+    "name": "Victoria Falls",
+    "wiki": "Victoria_Falls",
+    "lat": -17.9243,
+    "lng": 25.8572
+  },
+  {
+    "id": 132,
+    "name": "Serengeti National Park",
+    "wiki": "Serengeti_National_Park",
+    "lat": -2.3333,
+    "lng": 34.8333
+  },
+  {
+    "id": 133,
+    "name": "Mount Kilimanjaro",
+    "wiki": "Mount_Kilimanjaro",
+    "lat": -3.0674,
+    "lng": 37.3556
+  },
+  {
+    "id": 134,
+    "name": "Ngorongoro Crater",
+    "wiki": "Ngorongoro_Conservation_Area",
+    "lat": -3.161,
+    "lng": 35.587
+  },
+  {
+    "id": 135,
+    "name": "Zanzibar Stone Town",
+    "wiki": "Stone Town",
+    "lat": -6.1659,
+    "lng": 39.2026
+  },
+  {
+    "id": 136,
+    "name": "Lalibela Rock Churches",
+    "wiki": "Rock-Hewn_Churches,_Lalibela",
+    "lat": 12.031,
+    "lng": 39.047
+  },
+  {
+    "id": 137,
+    "name": "Avenue of the Baobabs",
+    "wiki": "Avenue_of_the_Baobabs",
+    "lat": -20.2508,
+    "lng": 44.4197
+  },
+  {
+    "id": 138,
+    "name": "Bazaruto Archipelago",
+    "wiki": "Bazaruto_Archipelago",
+    "lat": -21.7,
+    "lng": 35.45
+  },
+  {
+    "id": 139,
+    "name": "Djenné Mosque",
+    "wiki": "Great Mosque of Djenné",
+    "lat": 13.906,
+    "lng": -4.555
+  },
+  {
+    "id": 140,
+    "name": "Robben Island",
+    "wiki": "Robben_Island",
+    "lat": -33.8067,
+    "lng": 18.366
+  },
+  {
+    "id": 141,
+    "name": "Boulders Beach Penguins",
+    "wiki": "Boulders_Beach",
+    "lat": -34.197,
+    "lng": 18.451
+  },
+  {
+    "id": 142,
+    "name": "Kasbah of Algiers",
+    "wiki": "Casbah_of_Algiers",
+    "lat": 36.783,
+    "lng": 3.061
+  },
+  {
+    "id": 143,
+    "name": "Sossusvlei",
+    "wiki": "Sossusvlei",
+    "lat": -24.733,
+    "lng": 15.33
+  },
+  {
+    "id": 144,
+    "name": "Sahara Desert",
+    "wiki": "Sahara",
+    "lat": 23.4162,
+    "lng": 25.6628
+  },
+  {
+    "id": 145,
+    "name": "Omo Valley",
+    "wiki": "Omo River",
+    "lat": 5.5,
+    "lng": 36.5
+  },
+  {
+    "id": 146,
+    "name": "Sydney Opera House",
+    "wiki": "Sydney_Opera_House",
+    "lat": -33.8568,
+    "lng": 151.2153
+  },
+  {
+    "id": 147,
+    "name": "Great Barrier Reef",
+    "wiki": "Great_Barrier_Reef",
+    "lat": -18.2871,
+    "lng": 147.6992
+  },
+  {
+    "id": 148,
+    "name": "Uluru (Ayers Rock)",
+    "wiki": "Uluru",
+    "lat": -25.3444,
+    "lng": 131.0369
+  },
+  {
+    "id": 149,
+    "name": "Twelve Apostles",
+    "wiki": "Apostles in the New Testament",
+    "lat": -38.665,
+    "lng": 143.105
+  },
+  {
+    "id": 150,
+    "name": "Bondi Beach",
+    "wiki": "Bondi_Beach",
+    "lat": -33.8915,
+    "lng": 151.2767
+  },
+  {
+    "id": 151,
+    "name": "Milford Sound",
+    "wiki": "Milford_Sound",
+    "lat": -44.6414,
+    "lng": 167.8974
+  },
+  {
+    "id": 152,
+    "name": "Mount Cook (Aoraki)",
+    "wiki": "Aoraki_/_Mount_Cook",
+    "lat": -43.595,
+    "lng": 170.141
+  },
+  {
+    "id": 153,
+    "name": "Hobbiton Movie Set",
+    "wiki": "Hobbiton_Movie_Set",
+    "lat": -37.872,
+    "lng": 175.682
+  },
+  {
+    "id": 154,
+    "name": "Moeraki Boulders",
+    "wiki": "Moeraki_Boulders",
+    "lat": -45.346,
+    "lng": 170.827
+  },
+  {
+    "id": 155,
+    "name": "Bora Bora",
+    "wiki": "Bora_Bora",
+    "lat": -16.5004,
+    "lng": -151.7415
+  }
+]
+
+
+
+
+
+

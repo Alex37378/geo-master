@@ -1,0 +1,633 @@
+[
+  {
+    "question": "Which country is the largest by land area?",
+    "options": ["Canada", "Russia", "China", "United States"],
+    "answer": "Russia"
+  },
+  {
+    "question": "Which ocean is the largest in the world?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Which continent has the most countries?",
+    "options": ["Asia", "Africa", "Europe", "South America"],
+    "answer": "Africa"
+  },
+  {
+    "question": "Which mountain is the tallest above sea level?",
+    "options": ["K2", "Mount Everest", "Kilimanjaro", "Mont Blanc"],
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "The Sahara Desert is located on which continent?",
+    "options": ["Asia", "Africa", "Australia", "South America"],
+    "answer": "Africa"
+  },
+  {
+    "question": "Which country is shaped like a boot?",
+    "options": ["Greece", "Italy", "Portugal", "Chile"],
+    "answer": "Italy"
+  },
+  {
+    "question": "Which river is generally considered the longest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "answer": "Nile River"
+  },
+  {
+    "question": "Which country contains the Amazon rainforest?",
+    "options": ["Brazil", "Mexico", "Argentina", "Colombia"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "Which country has the most natural lakes?",
+    "options": ["Canada", "Finland", "Russia", "United States"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Which strait separates Europe and Africa?",
+    "options": ["Bering Strait", "Strait of Gibraltar", "Davis Strait", "Bosporus Strait"],
+    "answer": "Strait of Gibraltar"
+  },
+  {
+    "question": "Which country is famous for the Great Barrier Reef?",
+    "options": ["Australia", "Indonesia", "Philippines", "New Zealand"],
+    "answer": "Australia"
+  },
+  {
+    "question": "Which desert is the largest hot desert in the world?",
+    "options": ["Gobi Desert", "Sahara Desert", "Arabian Desert", "Kalahari Desert"],
+    "answer": "Sahara Desert"
+  },
+  {
+    "question": "Which continent is the smallest by land area?",
+    "options": ["Europe", "Australia", "South America", "Antarctica"],
+    "answer": "Australia"
+  },
+  {
+    "question": "Which country has a maple leaf on its flag?",
+    "options": ["Canada", "United States", "Switzerland", "Denmark"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Which mountain range separates much of Europe from Asia?",
+    "options": ["Andes", "Rocky Mountains", "Ural Mountains", "Alps"],
+    "answer": "Ural Mountains"
+  },
+  {
+    "question": "Which country is located on the Iberian Peninsula?",
+    "options": ["Spain", "Germany", "Norway", "Poland"],
+    "answer": "Spain"
+  },
+  {
+    "question": "Which lake is the largest freshwater lake by surface area?",
+    "options": ["Lake Superior", "Lake Victoria", "Lake Baikal", "Lake Titicaca"],
+    "answer": "Lake Superior"
+  },
+  {
+    "question": "Which country has the largest population in the world?",
+    "options": ["India", "China", "United States", "Indonesia"],
+    "answer": "India"
+  },
+  {
+    "question": "Which continent contains the Andes Mountains?",
+    "options": ["Asia", "South America", "Europe", "Africa"],
+    "answer": "South America"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "South Korea", "Thailand"],
+    "answer": "Japan"
+  },
+  {
+    "question": "Which ocean surrounds the Maldives?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "answer": "Indian Ocean"
+  },
+  {
+    "question": "Which country has the most islands in the world?",
+    "options": ["Sweden", "Indonesia", "Philippines", "Japan"],
+    "answer": "Sweden"
+  },
+  {
+    "question": "Which river flows through Egypt?",
+    "options": ["Amazon River", "Nile River", "Danube River", "Ganges River"],
+    "answer": "Nile River"
+  },
+  {
+    "question": "Which country is home to Machu Picchu?",
+    "options": ["Peru", "Bolivia", "Chile", "Ecuador"],
+    "answer": "Peru"
+  },
+  {
+    "question": "Which country contains the world's largest island?",
+    "options": ["Denmark", "Canada", "Russia", "Iceland"],
+    "answer": "Denmark"
+  },
+  {
+    "question": "Which continent has the Amazon River basin?",
+    "options": ["Africa", "South America", "Asia", "Europe"],
+    "answer": "South America"
+  },
+  {
+    "question": "Which country is famous for fjords?",
+    "options": ["Norway", "Egypt", "Brazil", "India"],
+    "answer": "Norway"
+  },
+  {
+    "question": "Which sea lies between Europe and Africa?",
+    "options": ["Caribbean Sea", "Mediterranean Sea", "Black Sea", "Red Sea"],
+    "answer": "Mediterranean Sea"
+  },
+  {
+    "question": "Which continent contains the most people?",
+    "options": ["Africa", "Asia", "Europe", "North America"],
+    "answer": "Asia"
+  },
+  {
+    "question": "Which country is shaped like a long narrow strip along the Pacific coast of South America?",
+    "options": ["Chile", "Argentina", "Peru", "Ecuador"],
+    "answer": "Chile"
+  },
+  {
+    "question": "Which waterfall is located between Zambia and Zimbabwe?",
+    "options": ["Niagara Falls", "Angel Falls", "Victoria Falls", "Iguazu Falls"],
+    "answer": "Victoria Falls"
+  },
+  {
+    "question": "Which country is home to Mount Fuji?",
+    "options": ["Japan", "China", "South Korea", "Nepal"],
+    "answer": "Japan"
+  },
+  {
+    "question": "Which country has the largest desert area?",
+    "options": ["Russia", "China", "Australia", "Canada"],
+    "answer": "Russia"
+  },
+  {
+    "question": "Which ocean is between Africa and Australia?",
+    "options": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Southern Ocean"],
+    "answer": "Indian Ocean"
+  },
+  {
+    "question": "Which country contains the ancient city of Petra?",
+    "options": ["Jordan", "Egypt", "Turkey", "Greece"],
+    "answer": "Jordan"
+  },
+  {
+    "question": "Which continent contains the most countries crossed by the Equator?",
+    "options": ["Africa", "Asia", "South America", "Europe"],
+    "answer": "Africa"
+  },
+  {
+    "question": "Which country has the largest population in Africa?",
+    "options": ["Egypt", "South Africa", "Nigeria", "Kenya"],
+    "answer": "Nigeria"
+  },
+
+  {
+    "question": "Which country is the largest in South America by land area?",
+    "options": ["Argentina", "Brazil", "Peru", "Colombia"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "Which continent is known as the 'Dark Continent' in historical geography?",
+    "options": ["Africa", "Asia", "Europe", "Australia"],
+    "answer": "Africa"
+  },
+  {
+    "question": "Which country has the famous ancient pyramids of Giza?",
+    "options": ["Egypt", "Mexico", "Greece", "Iraq"],
+    "answer": "Egypt"
+  },
+  {
+    "question": "Which ocean is located between North America and Europe?",
+    "options": ["Pacific Ocean", "Indian Ocean", "Atlantic Ocean", "Southern Ocean"],
+    "answer": "Atlantic Ocean"
+  },
+  {
+    "question": "Which country is famous for the ancient ruins of Angkor Wat?",
+    "options": ["Cambodia", "Vietnam", "Thailand", "Myanmar"],
+    "answer": "Cambodia"
+  },
+  {
+    "question": "Which mountain range runs along the western side of South America?",
+    "options": ["Alps", "Andes", "Himalayas", "Rockies"],
+    "answer": "Andes"
+  },
+  {
+    "question": "Which country contains the world's largest coral reef system?",
+    "options": ["Australia", "Indonesia", "Philippines", "Fiji"],
+    "answer": "Australia"
+  },
+  {
+    "question": "Which continent has the fewest native land mammals?",
+    "options": ["Africa", "Europe", "Antarctica", "South America"],
+    "answer": "Antarctica"
+  },
+  {
+    "question": "Which country is home to the Serengeti National Park?",
+    "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+    "answer": "Tanzania"
+  },
+  {
+    "question": "Which country has the famous Galápagos Islands?",
+    "options": ["Ecuador", "Chile", "Peru", "Colombia"],
+    "answer": "Ecuador"
+  },
+  {
+    "question": "Which desert covers much of northern China and southern Mongolia?",
+    "options": ["Gobi Desert", "Sahara Desert", "Atacama Desert", "Mojave Desert"],
+    "answer": "Gobi Desert"
+  },
+  {
+    "question": "Which country is known for the ancient city of Istanbul's location between two continents?",
+    "options": ["Turkey", "Greece", "Italy", "Egypt"],
+    "answer": "Turkey"
+  },
+  {
+    "question": "Which continent has the largest rainforest area?",
+    "options": ["Africa", "Asia", "South America", "North America"],
+    "answer": "South America"
+  },
+  {
+    "question": "Which country is home to the Atacama Desert?",
+    "options": ["Chile", "Argentina", "Peru", "Bolivia"],
+    "answer": "Chile"
+  },
+  {
+    "question": "Which country contains the Alps mountain range?",
+    "options": ["Switzerland", "Portugal", "Ireland", "Denmark"],
+    "answer": "Switzerland"
+  },
+  {
+    "question": "Which continent contains the most freshwater resources?",
+    "options": ["Asia", "South America", "Africa", "Europe"],
+    "answer": "South America"
+  },
+  {
+    "question": "Which country is home to the world's largest volcano by volume, Mauna Loa?",
+    "options": ["Japan", "United States", "Indonesia", "Iceland"],
+    "answer": "United States"
+  },
+  {
+    "question": "Which country has the world's largest salt flat, Salar de Uyuni?",
+    "options": ["Bolivia", "Chile", "Argentina", "Peru"],
+    "answer": "Bolivia"
+  },
+  {
+    "question": "Which sea separates Europe and Asia?",
+    "options": ["Mediterranean Sea", "Black Sea", "Caribbean Sea", "Arabian Sea"],
+    "answer": "Black Sea"
+  },
+  {
+    "question": "Which country is famous for tulips and windmills?",
+    "options": ["Netherlands", "Belgium", "Austria", "Sweden"],
+    "answer": "Netherlands"
+  },
+  {
+    "question": "Which country is home to the ancient city of Troy?",
+    "options": ["Turkey", "Italy", "Greece", "Egypt"],
+    "answer": "Turkey"
+  },
+  {
+    "question": "Which continent is the driest?",
+    "options": ["Africa", "Australia", "Antarctica", "Asia"],
+    "answer": "Antarctica"
+  },
+  {
+    "question": "Which country is known for the ancient ruins of Chichen Itza?",
+    "options": ["Mexico", "Peru", "Brazil", "Guatemala"],
+    "answer": "Mexico"
+  },
+  {
+    "question": "Which island is the largest in the Mediterranean Sea?",
+    "options": ["Sicily", "Crete", "Cyprus", "Sardinia"],
+    "answer": "Sicily"
+  },
+  {
+    "question": "Which country has the world's longest coastline?",
+    "options": ["Canada", "Russia", "Australia", "Indonesia"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Which country is famous for the Blue Lagoon geothermal spa?",
+    "options": ["Iceland", "Finland", "Norway", "Sweden"],
+    "answer": "Iceland"
+  },
+  {
+    "question": "Which continent is surrounded by the Atlantic, Pacific, and Indian Oceans?",
+    "options": ["Africa", "Asia", "Antarctica", "Europe"],
+    "answer": "Antarctica"
+  },
+  {
+    "question": "Which country is home to the world's largest pyramid by volume, the Great Pyramid of Cholula?",
+    "options": ["Mexico", "Egypt", "Peru", "Guatemala"],
+    "answer": "Mexico"
+  },
+  {
+    "question": "Which country contains the Okavango Delta?",
+    "options": ["Botswana", "Kenya", "Namibia", "Zambia"],
+    "answer": "Botswana"
+  },
+  {
+    "question": "Which country has the largest number of volcanoes?",
+    "options": ["Indonesia", "Japan", "Italy", "Chile"],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "Which continent contains the Amazon rainforest and the Andes Mountains?",
+    "options": ["South America", "Africa", "Asia", "Europe"],
+    "answer": "South America"
+  },
+  {
+    "question": "Which country is home to the ancient city of Ephesus?",
+    "options": ["Turkey", "Greece", "Italy", "Egypt"],
+    "answer": "Turkey"
+  },
+  {
+    "question": "Which country has the world's largest inland lake by surface area?",
+    "options": ["Russia", "Kazakhstan", "Canada", "China"],
+    "answer": "Kazakhstan"
+  },
+  {
+    "question": "Which country is famous for the temples of Bagan?",
+    "options": ["Myanmar", "Cambodia", "India", "Thailand"],
+    "answer": "Myanmar"
+  },
+  {
+    "question": "Which country is home to the Serengeti migration?",
+    "options": ["Tanzania", "Kenya", "Uganda", "Ethiopia"],
+    "answer": "Tanzania"
+  },
+  {
+    "question": "Which continent has the highest average elevation?",
+    "options": ["Asia", "Africa", "Europe", "North America"],
+    "answer": "Antarctica"
+  },
+  {
+    "question": "Which country is home to the Rocky Mountains?",
+    "options": ["Canada", "Brazil", "India", "South Africa"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Which country is famous for the Moai statues on Easter Island?",
+    "options": ["Chile", "Peru", "Argentina", "Ecuador"],
+    "answer": "Chile"
+  },
+  {
+    "question": "Which country is home to Lake Baikal?",
+    "options": ["Russia", "China", "Mongolia", "Kazakhstan"],
+    "answer": "Russia"
+  },
+  {
+    "question": "Which country has the most UNESCO World Heritage Sites?",
+    "options": ["Italy", "China", "France", "Spain"],
+    "answer": "Italy"
+  },
+  {
+    "question": "Which country contains the Namib Desert?",
+    "options": ["Namibia", "South Africa", "Botswana", "Angola"],
+    "answer": "Namibia"
+  },
+  {
+    "question": "Which country is home to the world's largest cave system, Son Doong Cave?",
+    "options": ["Vietnam", "China", "Thailand", "Laos"],
+    "answer": "Vietnam"
+  },
+  {
+    "question": "Which country contains the ancient ruins of Teotihuacan?",
+    "options": ["Mexico", "Peru", "Brazil", "Argentina"],
+    "answer": "Mexico"
+  },
+  {
+    "question": "Which country is completely surrounded by South Africa?",
+    "options": ["Lesotho", "Eswatini", "Botswana", "Namibia"],
+    "answer": "Lesotho"
+  },
+  {
+    "question": "Which country has the world's largest peninsula, the Arabian Peninsula?",
+    "options": ["Saudi Arabia", "India", "Egypt", "Turkey"],
+    "answer": "Saudi Arabia"
+  },
+  {
+    "question": "Which ocean is the smallest by surface area?",
+    "options": ["Indian Ocean", "Arctic Ocean", "Atlantic Ocean", "Southern Ocean"],
+    "answer": "Arctic Ocean"
+  },
+  {
+    "question": "Which country contains the ancient city of Pompeii?",
+    "options": ["Italy", "Greece", "Spain", "France"],
+    "answer": "Italy"
+  },
+  {
+    "question": "Which country shares the longest international border with the United States?",
+    "options": ["Mexico", "Canada", "Russia", "Greenland"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Which country has the longest coastline in South America?",
+    "options": ["Brazil", "Chile", "Argentina", "Peru"],
+    "answer": "Brazil"
+  },
+    {
+    "question": "Which country has the largest number of neighboring countries?",
+    "options": ["China", "Russia", "Brazil", "India"],
+    "answer": "China"
+  },
+  {
+    "question": "Which continent contains the Himalayas?",
+    "options": ["Asia", "Europe", "Africa", "North America"],
+    "answer": "Asia"
+  },
+  {
+    "question": "Which country is home to the world's largest flower, the Rafflesia?",
+    "options": ["Indonesia", "Thailand", "Malaysia", "Philippines"],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "Which country contains the world's largest canyon system, the Grand Canyon?",
+    "options": ["United States", "Canada", "Mexico", "Peru"],
+    "answer": "United States"
+  },
+  {
+    "question": "Which country is the only one that borders both the Atlantic and Indian Oceans?",
+    "options": ["South Africa", "Australia", "Brazil", "Morocco"],
+    "answer": "South Africa"
+  },
+  {
+    "question": "Which river forms part of the border between the United States and Mexico?",
+    "options": ["Colorado River", "Rio Grande", "Missouri River", "Yukon River"],
+    "answer": "Rio Grande"
+  },
+  {
+    "question": "Which country is made up of more than 7,000 islands?",
+    "options": ["Philippines", "Japan", "Indonesia", "Greece"],
+    "answer": "Philippines"
+  },
+  {
+    "question": "Which is the largest island in the Caribbean Sea?",
+    "options": ["Cuba", "Jamaica", "Hispaniola", "Puerto Rico"],
+    "answer": "Cuba"
+  },
+  {
+    "question": "Which country has the world's northernmost mainland point?",
+    "options": ["Canada", "Russia", "Norway", "Greenland"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Which ocean contains the Mariana Trench?",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Which country contains the world's largest tropical island?",
+    "options": ["Indonesia", "Brazil", "Australia", "Philippines"],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "Which lake is shared by Kenya, Uganda, and Tanzania?",
+    "options": ["Lake Victoria", "Lake Malawi", "Lake Tanganyika", "Lake Chad"],
+    "answer": "Lake Victoria"
+  },
+  {
+    "question": "Which country is located between France and Spain?",
+    "options": ["Portugal", "Andorra", "Belgium", "Switzerland"],
+    "answer": "Andorra"
+  },
+  {
+    "question": "Which country has a coastline on both the Mediterranean Sea and the Atlantic Ocean?",
+    "options": ["Morocco", "Egypt", "Italy", "Greece"],
+    "answer": "Morocco"
+  },
+  {
+    "question": "Which mountain is the highest peak in North America?",
+    "options": ["Mount Logan", "Denali", "Mount Whitney", "Pico de Orizaba"],
+    "answer": "Denali"
+  },
+  {
+    "question": "Which country is home to the world's largest waterfall by height, Angel Falls?",
+    "options": ["Venezuela", "Brazil", "Colombia", "Guyana"],
+    "answer": "Venezuela"
+  },
+  {
+    "question": "Which country has the largest land area in Africa?",
+    "options": ["Algeria", "Sudan", "Libya", "Democratic Republic of the Congo"],
+    "answer": "Algeria"
+  },
+  {
+    "question": "Which sea separates Saudi Arabia from Africa?",
+    "options": ["Red Sea", "Arabian Sea", "Black Sea", "Caspian Sea"],
+    "answer": "Red Sea"
+  },
+  {
+    "question": "Which country contains the world's largest lava field?",
+    "options": ["Iceland", "Italy", "Japan", "Chile"],
+    "answer": "Iceland"
+  },
+  {
+    "question": "Which country shares borders with both China and Russia?",
+    "options": ["Mongolia", "Kazakhstan", "North Korea", "Both Mongolia and North Korea"],
+    "answer": "Both Mongolia and North Korea"
+  },
+  {
+    "question": "Which continent is crossed by the Equator, Tropic of Cancer, and Tropic of Capricorn?",
+    "options": ["Africa", "Asia", "South America", "Australia"],
+    "answer": "Africa"
+  },
+  {
+    "question": "Which country contains the world's largest mangrove ecosystem?",
+    "options": ["Bangladesh", "Brazil", "Indonesia", "Australia"],
+    "answer": "Bangladesh"
+  },
+  {
+    "question": "Which river is the longest in Europe?",
+    "options": ["Danube River", "Volga River", "Rhine River", "Seine River"],
+    "answer": "Volga River"
+  },
+  {
+    "question": "Which country is home to the world's largest inland island, René-Levasseur Island?",
+    "options": ["Canada", "Russia", "Brazil", "Australia"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Which country has the most freshwater lakes?",
+    "options": ["Canada", "Russia", "Finland", "United States"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Which country is known for the Dead Sea, one of the lowest points on Earth?",
+    "options": ["Jordan", "Israel", "Egypt", "Both Jordan and Israel"],
+    "answer": "Both Jordan and Israel"
+  },
+  {
+    "question": "Which country is separated from mainland China by the Taiwan Strait?",
+    "options": ["Taiwan", "Japan", "South Korea", "Vietnam"],
+    "answer": "Taiwan"
+  },
+  {
+    "question": "Which country contains the world's largest ice sheet outside Antarctica and Greenland?",
+    "options": ["Canada", "Russia", "Norway", "Iceland"],
+    "answer": "Canada"
+  },
+  {
+    "question": "Which country has territory in both Europe and Asia?",
+    "options": ["Turkey", "Portugal", "Germany", "France"],
+    "answer": "Turkey"
+  },
+  {
+    "question": "Which country contains the Namib Desert, one of the oldest deserts on Earth?",
+    "options": ["Namibia", "Botswana", "South Africa", "Angola"],
+    "answer": "Namibia"
+  },
+  {
+    "question": "Which country is home to the world's largest archipelago?",
+    "options": ["Indonesia", "Japan", "Philippines", "Greece"],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "Which continent has the highest population density?",
+    "options": ["Asia", "Africa", "Europe", "South America"],
+    "answer": "Asia"
+  },
+  {
+    "question": "Which country contains the Great Victoria Desert?",
+    "options": ["Australia", "South Africa", "Chile", "Argentina"],
+    "answer": "Australia"
+  },
+  {
+    "question": "Which country is located entirely within the Alps?",
+    "options": ["Switzerland", "Austria", "Liechtenstein", "France"],
+    "answer": "Liechtenstein"
+  },
+  {
+    "question": "Which river flows through Baghdad?",
+    "options": ["Euphrates River", "Tigris River", "Nile River", "Jordan River"],
+    "answer": "Tigris River"
+  },
+  {
+    "question": "Which country has the longest coastline in Europe?",
+    "options": ["Norway", "Russia", "United Kingdom", "Greece"],
+    "answer": "Norway"
+  },
+  {
+    "question": "Which country contains the volcano Mount Etna?",
+    "options": ["Italy", "Greece", "Spain", "Turkey"],
+    "answer": "Italy"
+  },
+  {
+    "question": "Which country has the world's largest population of Muslims?",
+    "options": ["Indonesia", "Pakistan", "India", "Saudi Arabia"],
+    "answer": "Indonesia"
+  },
+  {
+    "question": "Which country contains the Trans-Siberian Railway?",
+    "options": ["Russia", "China", "Kazakhstan", "Mongolia"],
+    "answer": "Russia"
+  },
+  {
+    "question": "Which country contains Lake Titicaca, one of the world's highest navigable lakes?",
+    "options": ["Peru and Bolivia", "Chile and Argentina", "Brazil and Peru", "Ecuador and Colombia"],
+    "answer": "Peru and Bolivia"
+  }
+]

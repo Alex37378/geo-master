@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+.background-map {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+
+  background-image: var(--background-map);
+  background-repeat: repeat-x;
+  background-size: 100vw 100%;
+
+  opacity: 0.1;
+  filter: blur(3px);
+
+  animation: moveMap 30s linear infinite;
+}
+
+@keyframes moveMap {
+  from {
+    background-position: 0 0;
+  }
+
+  to {
+    background-position: -100vw 0;
+  }
+}
